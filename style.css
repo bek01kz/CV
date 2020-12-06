@@ -1,0 +1,116 @@
+body{
+	padding: 100px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Bree Serif', serif;
+	background-color: Gainsboro;
+
+}
+
+#surname{
+	color:#DFDC2A;
+	margin-top: -30px;
+	letter-spacing: 4px;
+}
+
+.CV{
+	display: flex;
+	border: 1px solid #DFDC2A;
+
+}
+.photo{
+	padding: 30px;
+
+}
+.left{
+	background-color: LavenderBlush;
+}
+.right{
+	background-color: white;
+	padding-left: 70px;
+	padding-right: 30px;
+}
+.info1{
+	margin-top: 70px;
+	font-size: 20px;
+}
+.info2{
+	border-top: 2px solid #DFDC2A;
+	margin-top: 70px;
+	display: flex;
+}
+.info2 div{
+	margin-right: 40px;
+}
+
+.intro{
+	margin-top: 120px;
+	float: right;
+	margin-right: 40px;
+}
+.expertise{
+	
+	padding-left: 130px;
+}
+.edu{
+	float: right;
+	padding-left: 130px;
+	margin-top: 140px;
+
+	
+}
+
+#about{
+	margin-top: -15px;
+}
+
+.introtext{
+	margin-top: 70px;
+}
+
+.expertise{
+	margin-top: 120px;
+	float: right;
+	margin-right: 40px;
+}
+
+.experttext{
+	margin-top: 80px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.expright{
+	padding-right: 240px;
+}
+
+.text1{
+	display: flex;
+}
+.part1{
+	padding-right: 20px;
+	color: #DFDC2A;
+}
+
+.edutext{
+}
+
+.edumain{
+	margin-top: 50px;
+	display: flex;
+	padding-bottom: 50px;
+}
+.lines{
+	margin-top: 20px;
+
+
+}
+.school{
+	padding-top: 10px;
+}
+.SDU{
+	padding-top: 10px;
+}
+
+#eduminus{
+	margin-top: -10px;
+}
